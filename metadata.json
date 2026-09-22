@@ -1,0 +1,6 @@
+{
+  "name": "EMS AI Automated Support System",
+  "description": "Multi-tiered AI support system for Employee Management Systems featuring L1 RAG, L2 LangGraph multi-agent diagnostic and database resolution, L3 human escalation, role-based access control, and comprehensive audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
